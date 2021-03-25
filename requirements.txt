@@ -11,4 +11,4 @@ pyflakes==1.6.0
 pypandoc==1.4
 python-magic==0.4.15
 pytz==2018.4
-PyYAML==3.12
+PyYAML==5.4
